@@ -7,16 +7,17 @@ Utilizing Excel functions like XLOOKUP, INDEX, multiple IF conditions, pivot tab
 
 # Dashboard
 The dashboard is designed to be interactive, allowing users to dynamically filter data based on the range of years, coffee roast type, size, and loyalty card status. The following visualizations are available:
-* 		Yearly Sales vs. USD
-* 		Top Five Customers
-* 		Sales by Country
+- Yearly Sales vs. USD
+- Top Five Customers
+- Sales by Country
 Charts and graphs are dynamic and will update as users adjust filters.
 
 # How to Use the Dashboard
-* 		Download the Excel file: https://docs.google.com/spreadsheets/d/1DjB3vspWOKsgDmsq4rx5h_-yTod_heos/edit?usp=sharing&ouid=116680075764394908166&rtpof=true&sd=true
-* 		Open the Excel file and navigate to the "Dashboard" tab.
-* 		Use the filters located at the top of the dashboard to customize your view.
-* 		Explore the visualizations to gain insights into coffee sales trends.
+- Download the below Excel file:
+*     https://docs.google.com/spreadsheets/d/1DjB3vspWOKsgDmsq4rx5h_-yTod_heos/edit?usp=sharing&ouid=116680075764394908166&rtpof=true&sd=true
+- Open the Excel file and navigate to the "Dashboard" tab.
+- Use the filters located at the top of the dashboard to customize your view.
+- Explore the visualizations.
 
 # Dependencies
 This project relies on Microsoft Excel for data cleaning, analysis, and visualization. No additional libraries or software are required.
